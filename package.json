@@ -1,0 +1,13 @@
+{
+  "name": "rackspace-serverless-hooks",
+  "dependencies": {
+    "cloudflare": "1.1.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.6.0"
+  }
+}
